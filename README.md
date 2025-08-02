@@ -1,15 +1,10 @@
-<!-- THM Banner -->
-<p align="center">
-  <img src="LINK_TO_TryHackMe_BANNER" alt="TryHackMe Banner" width="600"/>
-</p>
-
 <!-- Logo MDN0X -->
 <p align="center">
   <img src="LINK_TO_YOUR_LOGO" alt="mdn0x logo" width="150"/>
 </p>
 
 <h1 align="center">💻 mdn0x</h1>
-<h3 align="center">Pentester | CTF Player | Hacker Enthusiast</h3>
+<h3 align="center">Hacker | CTF Player | Pentesting Enthusiast</h3>
 
 ---
 
@@ -21,20 +16,19 @@
 ---
 
 ### 📂 Main Projects
-- **[CTF Writeups](LINK_TO_CTF_REPO)** → Solutions & notes from my CTF journey
-- **[Pentest Tools](LINK_TO_TOOLS_REPO)** → My personal pentest toolkit
-- **[Scripts](LINK_TO_SCRIPTS_REPO)** → Exploit automation & helper scripts
+- **[CTF Writeups](https://github.com/mdn0x/HackingZK/tree/main/HacksVault/Hacking%20Zettelkasten)** → Solutions & notes from my CTF journey
+- **[Pentest Tools](https://github.com/mdn0x/Tools)** → My personal pentest toolkit
+- **[Scripts](https://github.com/mdn0x/Scripts)** → Exploit automation & helper scripts
 
 ---
 
 ### 🌐 Connect
-- **TryHackMe:** [My THM Profile](LINK_TO_TRYHACKME)
+- **TryHackMe:** [My THM Profile](https://tryhackme.com/p/mdn0xKali)
+<!-- THM Banner -->
+<p align="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5072404" style='border:none;'></iframe> 
+</p>
   
-  <p>
-    <img src="https://img.shields.io/badge/Hacking%20is%20not%20a%20crime-%23000?style=for-the-badge&logo=linux&logoColor=white"/>
-  </p>
-  
-- **HackTheBox:** [My HTB Profile](LINK_TO_HTB)
-- **GitHub:** [mdn0x](https://github.com/mdn0x)
+- **HackTheBox:** [My HTB Profile](https://app.hackthebox.com/profile/overview)
 
 ---
