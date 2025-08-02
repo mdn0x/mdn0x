@@ -22,9 +22,9 @@
 ### 🌐 Connect
 - **TryHackMe:** [My THM Profile](https://tryhackme.com/p/mdn0xKali)
 <!-- THM Banner -->
-<p align="center">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5072404" width"600"/>
-</p>
+
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5072404" style='border:none;'></iframe>
+
   
 - **HackTheBox:** [My HTB Profile](https://app.hackthebox.com/profile/overview)
 
