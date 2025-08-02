@@ -1,7 +1,4 @@
 <!-- Logo MDN0X -->
-<p align="center">
-  <img src="LINK_TO_YOUR_LOGO" alt="mdn0x logo" width="150"/>
-</p>
 
 <h1 align="center">💻 mdn0x</h1>
 <h3 align="center">Hacker | CTF Player | Pentesting Enthusiast</h3>
