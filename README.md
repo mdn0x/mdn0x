@@ -23,7 +23,7 @@
 - **TryHackMe:** [My THM Profile](https://tryhackme.com/p/mdn0xKali)
 <!-- THM Banner -->
 
-  ![THMBadge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5072404) 
+  ![THMBadge](https://tryhackme-badges.s3.amazonaws.com/mdn0xKali.png?update=1) 
 
   
 - **HackTheBox:** [My HTB Profile](https://app.hackthebox.com/profile/overview)
