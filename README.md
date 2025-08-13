@@ -26,6 +26,6 @@
   ![THMBadge](https://tryhackme-badges.s3.amazonaws.com/mdn0xKali.png?update=1) 
 
   
-- **HackTheBox:** [My HTB Profile](https://app.hackthebox.com/profile/overview)
+- **HackTheBox:** [My HTB Profile](https://app.hackthebox.com/profile/mdn0x)
 
 ---
