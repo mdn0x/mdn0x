@@ -1,4 +1,4 @@
-<!-- Logo MDN0X -->
+ho<!-- Logo MDN0X -->
 
 <h1 align="center">💻 mdn0x</h1>
 <h3 align="center">Hacker | CTF Player | Pentesting Enthusiast</h3>
@@ -20,12 +20,7 @@
 ---
 
 ### 🌐 Connect
-- **TryHackMe:** [My THM Profile](https://tryhackme.com/p/mdn0xKali)
-<!-- THM Banner -->
 
-  ![THMBadge](https://tryhackme-badges.s3.amazonaws.com/mdn0xKali.png?update=1) 
-
-  
-- **HackTheBox:** [My HTB Profile](https://app.hackthebox.com/profile/mdn0x)
+- **Linktree:** (https://linktr.ee/mdn0x)
 
 ---
