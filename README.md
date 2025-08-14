@@ -21,6 +21,6 @@ ho<!-- Logo MDN0X -->
 
 ### 🌐 Connect
 
-- **Linktree:** (https://linktr.ee/mdn0x)
+- **Linktree:** [My Linktree](https://linktr.ee/mdn0x)
 
 ---
